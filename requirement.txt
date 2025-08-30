@@ -1,0 +1,14 @@
+pypdf
+langchain_community
+langserve
+fastapi
+uvicorn
+bs4
+pypdf
+sentence_transformers
+chromadb
+faiss-cpu
+groq
+langchain-groq
+beautifulsoup4
+langchainhub
